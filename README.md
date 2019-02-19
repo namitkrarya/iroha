@@ -7,7 +7,8 @@
 [![Build Status](https://jenkins.soramitsu.co.jp/buildStatus/icon?job=iroha/iroha-hyperledger/master)](https://jenkins.soramitsu.co.jp/job/iroha/job/iroha-hyperledger/job/master/)
 [![Throughput Graph](https://graphs.waffle.io/hyperledger/iroha/throughput.svg)](https://waffle.io/hyperledger/iroha/metrics/throughput)
 
-Iroha is a straightforward DLT, inspired by Japanese Kaizen principle — eliminate excessiveness (muri). Iroha has essential functionality for your asset, information and identity management needs, at the same time being an efficient and trustworthy byzantine fault-tolerant tool for your enterprise needs. 
+Iroha is a straightforward distributed ledger technology (DLT), inspired by Japanese Kaizen principle — eliminate excessiveness (muri). 
+Iroha has essential functionality for your asset, information and identity management needs, at the same time being an efficient and trustworthy byzantine fault-tolerant tool for your enterprise needs. 
 
 Check the [overview](http://iroha.readthedocs.io/en/latest/overview.html) page of our documentation.
 [Here](https://www.youtube.com/channel/UCYlK9OrZo9hvNYFuf0vrwww) is a YouTube channel where we upload meetings and explanatory videos - check them out! 
@@ -51,7 +52,8 @@ That's great! Check out [this document](https://github.com/hyperledger/iroha/blo
 
 ## Need help?
 
-* Join [Telegram chat](https://t.me/hyperledgeriroha) or [Hyperledger RocketChat](https://chat.hyperledger.org/channel/iroha) where the maintainers, contributors and fellow users are ready to help you. You can also discuss your concerns and proposals and simply chat about Iroha there or in Gitter [![Join the chat at https://gitter.im/hyperledger-iroha/Lobby](https://badges.gitter.im/hyperledger-iroha/Lobby.svg)](https://gitter.im/hyperledger-iroha/Lobby)
+* Join [Telegram chat](https://t.me/hyperledgeriroha) or [Hyperledger RocketChat](https://chat.hyperledger.org/channel/iroha) where the maintainers, contributors and fellow users are ready to help you. 
+You can also discuss your concerns and proposals and simply chat about Iroha there or in Gitter [![Join the chat at https://gitter.im/hyperledger-iroha/Lobby](https://badges.gitter.im/hyperledger-iroha/Lobby.svg)](https://gitter.im/hyperledger-iroha/Lobby)
 * Submit issues and improvement suggestions via [Hyperledger Jira](https://jira.hyperledger.org/secure/CreateIssue!default.jspa) 
 * Subscribe to our [mailing list](https://lists.hyperledger.org/g/iroha) to receive the latest and most important news and spread your word within Iroha community
 
