@@ -16,7 +16,7 @@ Check the [overview](http://iroha.readthedocs.io/en/latest/overview.html) page o
  alt="Iroha logo" title="Iroha" align="right" />
 
 Iroha has the following features:
-1. Creation and management of custom assets, such as currencies or indivisible rights, serial numbers, patents, etc.
+1. Creation and management of custom fungible assets, such as currencies, kilos of gold, etc.
 2. Management of user accounts
 3. Taxonomy of accounts based on _domains_ in the system
 4. The system of rights and verification of user permissions for the execution of transactions and queries in the system
@@ -47,11 +47,13 @@ Yes, in [Java](https://github.com/hyperledger/iroha-java), [Python](https://gith
 [Android point app](https://github.com/hyperledger/iroha-android/tree/master/iroha-android-sample) and [JavaScript wallet](https://github.com/soramitsu/iroha-wallet-js).
 
 ### Want to help us develop Iroha?
+
 That's great! Check out [this document](https://github.com/hyperledger/iroha/blob/master/CONTRIBUTING.md)
 
 ## Need help?
 
-* Join [Telegram chat](https://t.me/hyperledgeriroha) or [Hyperledger RocketChat](https://chat.hyperledger.org/channel/iroha) where the maintainers, contributors and fellow users are ready to help you. You can also discuss your concerns and proposals and simply chat about Iroha there or in Gitter [![Join the chat at https://gitter.im/hyperledger-iroha/Lobby](https://badges.gitter.im/hyperledger-iroha/Lobby.svg)](https://gitter.im/hyperledger-iroha/Lobby)
+* Join [Telegram chat](https://t.me/hyperledgeriroha) or [Hyperledger RocketChat](https://chat.hyperledger.org/channel/iroha) where the maintainers, contributors and fellow users are ready to help you. 
+You can also discuss your concerns and proposals and simply chat about Iroha there or in Gitter [![Join the chat at https://gitter.im/hyperledger-iroha/Lobby](https://badges.gitter.im/hyperledger-iroha/Lobby.svg)](https://gitter.im/hyperledger-iroha/Lobby)
 * Submit issues and improvement suggestions via [Hyperledger Jira](https://jira.hyperledger.org/secure/CreateIssue!default.jspa) 
 * Subscribe to our [mailing list](https://lists.hyperledger.org/g/iroha) to receive the latest and most important news and spread your word within Iroha community
 
