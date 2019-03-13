@@ -172,7 +172,7 @@ TEST_F(AmetsuchiTest, PeerTest) {
 
   std::vector<shared_model::proto::Transaction> txs;
   txs.push_back(TestTransactionBuilder()
-                    .addPeer("192.168.9.1:50051", fake_pubkey)
+                    .addPeer("192.168.9.1:50051--", fake_pubkey)
                     .build());
 
   auto block = TestBlockBuilder().transactions(txs).prevHash(fake_hash).build();
@@ -182,7 +182,7 @@ TEST_F(AmetsuchiTest, PeerTest) {
   auto peers = wsv->getPeers();
   ASSERT_TRUE(peers);
   ASSERT_EQ(peers->size(), 1);
-  ASSERT_EQ(peers->at(0)->address(), "192.168.9.1:50051");
+  ASSERT_EQ(peers->at(0)->address(), "192.168.9.1:500051");
 
   ASSERT_EQ(peers->at(0)->pubkey(), fake_pubkey);
 }
